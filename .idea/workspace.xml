@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa7d2061-e1d2-4df6-aea1-230366b7e1cd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HgLHHJAI12SX3OqeumWFad2iXC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "C:/Users/houss/Desktop/spring-boot-swagger/pom.xml",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.scopes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\houss\Desktop\example-maven-project-simple\target\classes" />
+      <recent name="C:\Users\houss\Desktop\example-maven-project-simple\target" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.technicaltest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyApplication">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.technicaltest.Main" />
+      <module name="myapp" />
+      <option name="PROGRAM_PARAMETERS" value="-s C:\Users\houss\Desktop\hello -d C:\Users\houss\Desktop\hi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.technicaltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.technicaltest.MyApplication" />
+      <module name="sync" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.technicaltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsImplementedUtilsTest.fileExistsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.technicaltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.technicaltest" />
+      <option name="MAIN_CLASS_NAME" value="com.technicaltest.ListsImplementedUtilsTest" />
+      <option name="METHOD_NAME" value="fileExistsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsImplementedUtilsTest.findCommonElementSortedListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.technicaltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.technicaltest" />
+      <option name="MAIN_CLASS_NAME" value="com.technicaltest.ListsImplementedUtilsTest" />
+      <option name="METHOD_NAME" value="findCommonElementSortedListsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsImplementedUtilsTest.sortListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.technicaltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.technicaltest" />
+      <option name="MAIN_CLASS_NAME" value="com.technicaltest.ListsImplementedUtilsTest" />
+      <option name="METHOD_NAME" value="sortListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyApplication" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ListsImplementedUtilsTest.fileExistsTest" />
+      <item itemvalue="JUnit.ListsImplementedUtilsTest.findCommonElementSortedListsTest" />
+      <item itemvalue="JUnit.ListsImplementedUtilsTest.sortListTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyApplication" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ListsImplementedUtilsTest.fileExistsTest" />
+        <item itemvalue="JUnit.ListsImplementedUtilsTest.findCommonElementSortedListsTest" />
+        <item itemvalue="JUnit.ListsImplementedUtilsTest.sortListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7d2061-e1d2-4df6-aea1-230366b7e1cd" name="Changes" comment="" />
+      <created>1668701697286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668701697286</updated>
+      <workItem from="1668701699328" duration="6862000" />
+      <workItem from="1668714700208" duration="1734000" />
+      <workItem from="1668725876241" duration="22314000" />
+      <workItem from="1668775412226" duration="4040000" />
+      <workItem from="1669204188943" duration="1713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

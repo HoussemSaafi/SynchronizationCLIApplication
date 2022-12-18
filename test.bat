@@ -1,0 +1,1 @@
+doskey java -Dfile.encoding=UTF-8 -classpath C:\Users\houss\Desktop\example-maven-project-simple\target\classes;C:\Users\houss\.m2\repository\info\picocli\picocli\4.7.0\picocli-4.7.0.jar com.technicaltest.Main
